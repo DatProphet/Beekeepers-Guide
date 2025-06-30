@@ -13,7 +13,7 @@ Your hive style affects management, honey harvest, and inspections. Common optio
 - **Warre Hive** – Vertical but smaller boxes; aims to mimic natural bee environments.
 
 📷 *Example Langstroth Hive*  
-![Langstroth Hive](../images/langstroth-hive.jpg)
+![Langstroth Hive](../images/langstroth/langstroth1.aviv)
 
 ---
 
