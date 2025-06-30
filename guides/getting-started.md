@@ -1,4 +1,4 @@
-a# 🐝 Getting Started with Beekeeping
+era# 🐝 Getting Started with Beekeeping
 
 Welcome to your first steps in beekeeping! This guide covers the essentials for setting up your apiary, choosing equipment, and caring for your bees.
 
