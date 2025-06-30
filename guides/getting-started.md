@@ -1,4 +1,4 @@
-# 🐝 Getting Started with Beekeeping
+a# 🐝 Getting Started with Beekeeping
 
 Welcome to your first steps in beekeeping! This guide covers the essentials for setting up your apiary, choosing equipment, and caring for your bees.
 
@@ -13,7 +13,7 @@ Your hive style affects management, honey harvest, and inspections. Common optio
 - **Warre Hive** – Vertical but smaller boxes; aims to mimic natural bee environments.
 
 📷 *Example Langstroth Hive*  
-![Langstroth Hive](../images/langstroth/langstroth1.aviv)
+![Langstroth Hive](../images/langstroth/langstroth1.avif)
 
 ---
 
